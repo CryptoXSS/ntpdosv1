@@ -25,7 +25,7 @@ def deny():
 
 #So I dont have to have the same stuff twice
 def printhelp():
-	print "NTP Amplification DOS Attack"
+	print ("NTP Amplification DOS Attack")
 	print "By DaRkReD"
 	print "Usage ntpdos.py <target ip> <ntpserver list> <number of threads>"
 	print "ex: ex: ntpdos.py 1.2.3.4 file.txt 10"
