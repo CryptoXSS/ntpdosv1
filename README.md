@@ -21,5 +21,5 @@ Usage:<br />
 
     
 Hola <?php echo htmlspecialchars($_POST['nombre']); ?>.
-Usted tiene <?php echo (int)$_POST['edad']; ?> años.
+Usted tiene <?php echo (int)$_POST['23']; ?> años.
    
