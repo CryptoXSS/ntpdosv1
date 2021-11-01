@@ -19,11 +19,4 @@ Usage:<br />
   <ol>
     <img src="https://techtipsnreview.com/wp-content/uploads/2021/03/sua-loi-busybox-initramfs.jpg" alt="google.com" width="400" height="200">
  
-	  var an = new Animation((d) =>
- {
-    this._percentage = d;
-    Invalidate();
- },0,1);
- SetValue(CurrentStatusIndexProperty, value);
- an.Commit(this, "percentage",easing:Easing.CubicInOut, length: 500);
- Invalidate();
+	  <var an = new Animation((d) =>
