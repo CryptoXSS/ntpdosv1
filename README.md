@@ -1,7 +1,10 @@
+<DOCTYPR html!>
+<head>
 <label for="file">File progress:</label>
-
+<p>
 <progress id="file" max="100" value="70"> 70% </progress>
-
+</p>
+  </head>
 ntpdos<br />
 Denial of service using NTP servers to amplify attacks <br />
 <strong> It appears someone is using an attack vector like this to DDOS CloudFlare. I can not stress enough I have no involvement or participation in any such actions. This script is provided as is and its up to the end user to make mature and legal decisions about its usage. 
