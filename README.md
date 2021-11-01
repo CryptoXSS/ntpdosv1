@@ -16,4 +16,4 @@ Usage:<br />
      <li>3</li>
       <li>4</li>
   <ol>
-    <img src="https://techtipsnreview.com/wp-content/uploads/2021/03/sua-loi-busybox-initramfs.jpg" alt="google.com" width="104" height="142">
+    <img src="https://techtipsnreview.com/wp-content/uploads/2021/03/sua-loi-busybox-initramfs.jpg" alt="google.com" width="400" height="200">
