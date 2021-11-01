@@ -1,9 +1,7 @@
-<DOCTYPR html!>
-<head>
-<label for="file">File progress:</label>
-<p>
-<progress id="file" max="100" value="70"> 70% </progress>
-</p>
+label {
+    padding-right: 10px;
+    font-size: 1rem;
+}
   </head>
 ntpdos<br />
 Denial of service using NTP servers to amplify attacks <br />
