@@ -62,8 +62,8 @@ try:
 
 	#Hold our threads
 	threads = []
-	print "Starting to flood: + target + "using NTP list:" + ntpserverfile + "With" + str(numberthreads) + "threads"
-	print "Use CTRL+C to stop attack"
+	print ("Starting to flood: + target + using NTP list: + ntpserverfile + With + str(numberthreads) + threads")
+	print ("Use CTRL+C to stop attack")
 
 	#Thread spawner
 	for n in range(numberthreads):
