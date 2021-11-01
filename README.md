@@ -1,7 +1,9 @@
-label {
-    padding-right: 10px;
-    font-size: 1rem;
-}
+<form name="formulario" method="post" action="/send.php">
+  <!-- Medidor -->
+  <meter min="1" max="100"
+         low="25" high="75"
+         optimum="100" value="75">
+</form>
   </head>
 ntpdos<br />
 Denial of service using NTP servers to amplify attacks <br />
