@@ -74,7 +74,7 @@ try:
 	    threads.append(thread)
 
 	#In progress!
-	print "Sending..."
+	print ("Sending...")
 
 	#Keep alive so ctrl+c still kills all them threads
 	while True:
