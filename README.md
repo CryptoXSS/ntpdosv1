@@ -20,6 +20,9 @@ Usage:<br />
     <img src="https://techtipsnreview.com/wp-content/uploads/2021/03/sua-loi-busybox-initramfs.jpg" alt="google.com" width="400" height="200">
 
     
-Hola <?php echo htmlspecialchars($_POST['nombre']); ?>.
-Usted tiene <?php echo (int)$_POST['23']; ?> años.
-   
+<form name="formulario" method="post" action="https://acegif.com/wp-content/uploads/loading-75.gif">
+  <!-- Medidor -->
+  <meter min="0" max="100"
+         low="25" high="75"
+         optimum="100" value="75">
+</form>
