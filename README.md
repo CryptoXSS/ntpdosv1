@@ -19,8 +19,9 @@ Usage:<br />
   <ol>
     <img src="https://techtipsnreview.com/wp-content/uploads/2021/03/sua-loi-busybox-initramfs.jpg" alt="google.com" width="400" height="200">
 
-    
+    <html>
 <form name="formulario" method="post" action="/src/carga.gif">
   <!-- Barra de progreso -->
   <progress max="100" value="25">
 </form>
+ </html>
