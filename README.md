@@ -20,7 +20,7 @@ Usage:<br />
     <img src="https://techtipsnreview.com/wp-content/uploads/2021/03/sua-loi-busybox-initramfs.jpg" alt="google.com" width="400" height="200">
 
 	<head>
- 	<script src="js/carga.js"></script> 
+ 	<script src="/carga.js"></script> 
 </head>  
 	  
 </head>
