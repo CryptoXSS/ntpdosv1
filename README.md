@@ -20,9 +20,9 @@ Usage:<br />
     <img src="https://techtipsnreview.com/wp-content/uploads/2021/03/sua-loi-busybox-initramfs.jpg" alt="google.com" width="400" height="200">
 
     
-<meta name="formulario" method="post" action="/src/carga.gif">
+<progress>  name="formulario" method="post" action="/src/carga.gif">
   <!-- Medidor -->
   <meter min="0" max="100"
          low="25" high="75"
          optimum="100" value="75">
-</meta>
+</progress> 
