@@ -19,7 +19,7 @@ Usage:<br />
   <ol>
     <img src="https://techtipsnreview.com/wp-content/uploads/2021/03/sua-loi-busybox-initramfs.jpg" alt="google.com" width="400" height="200">
 
-    <body>
+    
       <head>
     <form name="formulario" method="post" action="/send.php">
   <!-- Medidor -->
@@ -28,4 +28,4 @@ Usage:<br />
          optimum="100" value="75">
 </form>
       </head>
-      </body>
+      
