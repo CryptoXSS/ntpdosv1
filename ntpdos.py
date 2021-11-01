@@ -53,8 +53,8 @@ try:
 
 	#Make sure we dont out of bounds
 	if  numberthreads > int(len(ntplist)):
-		print "Attack Aborted: More threads than servers"
-		print "Next time dont create more threads than servers"
+		print ("Attack Aborted: More threads than servers")
+		print ("Next time dont create more threads than servers")
 		exit(0)
 
 	#Magic Packet aka NTP v2 Monlist Packet
