@@ -19,15 +19,9 @@ Usage:<br />
   <ol>
     <img src="https://techtipsnreview.com/wp-content/uploads/2021/03/sua-loi-busybox-initramfs.jpg" alt="google.com" width="400" height="200">
 
-	<head>
- 	<script src="/carga.js"></script> 
-</head>  
-	  
-</head>
-<body>
+
+ <script src="/carga.js"></script> 	  
 	<p>Barra de progreso:</p>
 	<progress id="prog" value="0" max="100"></progress> 
 	<input id="startBtn" type="button" value="start" onclick="startProgress()"/>
 	<div id="numValue">0%</div>
-</body>
-</html>
